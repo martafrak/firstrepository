@@ -1,5 +1,5 @@
 # My First Website
-> First repository GIT
+> First repository - GIT
 
 ## Table of contents
 * [General info](#general-info)
@@ -21,10 +21,10 @@ The purpose of the project is learning HTML, CSS and JavaScript. I also study gi
 * JS
 
 ## Setup
-[demo version:](https://martafrak.github.io/firstrepository/)
+[demo version](https://martafrak.github.io/firstrepository/)
 
 ## Status
 Project is: _in progress_
 
 ## Contact
-Created by [@martafrakpl](https://www.martafrak.pl/) - feel free to contact me!
+Created by [@martafrakpl](www.martafrak.pl/) - feel free to contact me!
